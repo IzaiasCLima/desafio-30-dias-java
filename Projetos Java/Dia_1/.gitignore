@@ -1,0 +1,6 @@
+#Ignorar as configuracoes pessoais no VS Code
+.vscode/
+#Ignorar arquivos compilados gerados pelo Java
+*.class
+#Ignorar arquivos de log e erros
+*.log
